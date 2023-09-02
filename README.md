@@ -3,7 +3,7 @@
 <title>css öğreniyorum</title>
 <style type =“text/css”>
 .onemli {
-  color : blue;
+  color : #778899 ;
   font-weight : bold;
  
 }
